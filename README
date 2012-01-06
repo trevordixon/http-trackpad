@@ -1,1 +1,15 @@
-Use Node.js and xautomation 
+Use your iPad or another computer on your network to control
+your Linux desktop. This program will run on the desktop to 
+be controlled and uses Node.js to deliver the client through
+a web browser.To run, Node.js and xautomation must be installed.
+
+To install Node and xautomation:
+
+sudo apt-get install nodejs
+sudo apt-get install xautomation
+
+Then to start the program:
+
+node app.js
+
+St
