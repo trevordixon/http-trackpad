@@ -1,9 +1,8 @@
 HTTP-Trackpad
 =============
-
 Use your iPad or another computer on your network to control your Linux desktop.
 This program will run on the desktop to be controlled and uses Node.js to deliver
-the client through a web browser.
+the client through a web browser. Server only tested so far in Ubuntu 11.10.
 
 Dependencies
 ------------
