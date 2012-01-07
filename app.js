@@ -4,6 +4,7 @@ var app = require('express').createServer(),
 //	mdns = require('mdns');
 
 app.listen(8080);
+console.log('Running on port 8080');
 //mdns.createAdvertisement('websocket', 3080).start();
 
 app.get('/', function (req, res) {
