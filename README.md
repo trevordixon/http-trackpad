@@ -23,8 +23,8 @@ Then to start the program:
 
     node http-trackpad/app.js
 
-Use
----
+How to Use
+----------
 On your iPad's or on another computer's browser, go to http://[server IP]:8080.
 
 ### iPad
@@ -37,4 +37,6 @@ On your iPad's or on another computer's browser, go to http://[server IP]:8080.
 * In most browsers, use F11 to make full-screen.
 * Hold control as you move your mouse to prevent the pointer from moving.
 
+Note
+----
 The client will almost certainly not work in any browser that doesn't support WebSockets.
